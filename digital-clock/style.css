@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    background-color: #f0f0f0; /* Light gray background */
+}
+
+nav {
+    text-align: center;
+    background-color: #6a1b9a; /* Purple */
+    color: white; /* White text */
+    padding: 10px 0;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 0 20px;
+    color: white; /* White links */
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1.display {
+    color: #333; /* Dark text */
+}
+
+/* Update clock style */
+#Time {
+    font-size: 3em; /* Larger font size for the clock */
+    color: #6a1b9a; /* Purple */
+}
