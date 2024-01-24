@@ -1,0 +1,13 @@
+/* styles.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Your custom styles go here */
+/* Add these styles to center the selectors */
+#citySelector,
+#unitSelector {
+  margin: 0 auto; /* Center the selectors horizontally */
+  max-width: 300px; /* Optional: Set a max-width for the selectors */
+}
+
