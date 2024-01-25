@@ -1,3 +1,0 @@
-# javascript-projects
-______________________________________________________________________________________________________________________________________________
-Creating projects using javascript to gain hands-on practice and upskill myself as a beginner using different libraries and frameworks.
